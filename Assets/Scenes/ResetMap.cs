@@ -9,7 +9,7 @@ public class ResetMap : MonoBehaviour
     [SerializeField] GameObject FloorB;
     [SerializeField] GameObject FloorC;
     [SerializeField] GameObject FloorD;
-    [SerializeField] GameObject DisaA;
+   
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
